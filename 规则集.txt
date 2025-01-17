@@ -1,4 +1,0 @@
-payload:
-  - 'konk.cc'
-  - 'nodeseek.com'
-  - 'pokepay.cc'
